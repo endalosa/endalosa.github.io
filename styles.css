@@ -1,1 +1,24 @@
-hi
+ #sidebar {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left: 25px;
+    width: 250px;
+    height:1000px;
+    /* check for a longer sidebar */
+    background:#48495e;
+} 
+
+#image {
+    position: relative;
+     top:25px;
+     left:25px;
+}
+
+#title {
+    position: relative;
+    color: white;
+    font-size:70%;
+     top:20px;
+     left:25px;
+}
