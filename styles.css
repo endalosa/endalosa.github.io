@@ -5,7 +5,6 @@
     left: 25px;
     width: 250px;
     height:1000px;
-    /* check for a longer sidebar */
     background:#48495e;
 } 
 
@@ -21,4 +20,30 @@
     font-size:70%;
      top:20px;
      left:25px;
+}
+
+#bar1 {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left: 50px;
+    width: 250px;
+      top:300px;
+    height:50px;
+    background:#595b75;
+}  
+
+#words1 {
+    position: relative;
+    color: white;
+    font-size:70%;
+     top:35px;
+     left:30px;
+}
+
+
+#man {
+    position: relative;
+     top:-30px;
+     left:-30px;
 }
