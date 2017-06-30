@@ -51,16 +51,16 @@
     position: relative;
     color:#FFFFFF;
     font-size:50%;
-     top:10px;
-     left:40px;
+     top:-40px;
+     left:50px;
 }
 
-#words1 {
+#words2 {
     position: relative;
     color:#FFFFFF;
     font-size:50%;
-     top:10px;
-     left:40px;
+     top:-25px;
+     left:50px;
 }
 
 
