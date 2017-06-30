@@ -35,7 +35,7 @@
 
 #bar2 {
     position:fixed;
-    top:50;
+    top:50px;
     bottom:0;
     left: 25px;
     width: 250px;
@@ -60,18 +60,12 @@
      left:40px;
 }
 
-#man {
-    position: relative;
-     bottom:30px;
-     right:50px;
-     height:20px;
-     width:20px;
-}
+
 
 #paintbrush {
     position: relative;
      bottom:30px;
-     right:50px;
+     right:60px;
      height:20px;
      width:20px;
 }
