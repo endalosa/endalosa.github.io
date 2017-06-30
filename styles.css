@@ -37,13 +37,13 @@
     position: relative;
     color:#FFFFFF;
     font-size:50%;
-     top:35px;
-     left:30px;
+     top:20px;
+     left:40px;
 }
 
 
 #man {
     position: relative;
-     top:-30px;
-     left:-30px;
+     bottom:30px;
+     right:30px;
 }
