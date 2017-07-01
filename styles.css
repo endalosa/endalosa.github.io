@@ -108,7 +108,7 @@ body {
     position: relative;
     color:#FFFFFF;
     font-size:50%;
-     top:6px;
+     top:-35px;
      left:55px;
 }
 
@@ -138,7 +138,7 @@ body {
 
 #abouticon {
  position: relative;
-  top:-30px;
+  top:10px;
   left:10px;
 }
 
