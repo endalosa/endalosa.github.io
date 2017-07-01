@@ -2,6 +2,12 @@ body {
     background-color:#e2e3e9;
 }
 
+.link
+{
+    color: inherit;
+    text-decoration: none;
+}
+
 #sidebar {
     position:fixed;
     top:0;
