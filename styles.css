@@ -12,15 +12,15 @@
    color: #48495e;
    position: relative;
    font-size: 300%;
-   top: 40px;
+   top: 30px;
    left: 800px;
 }
 
 #HOBBYBOX {
     position:relative;
-    top: 45px;
+    top: 35px;
     bottom:0;
-    left: 500px;
+    left: 400px;
     width: 915px;
     height:250px;
     background:#ffffff;
