@@ -10,8 +10,13 @@
 
 #bakertxt {
    position: relative;
-   bottom: 40px;
-   left: 20px;
+   bottom: 230px;
+   width: 650px;
+   height: 200px;
+   left: 270px;
+   border-style: solid;
+   border-width: 1px;
+   border-color:#000000;
 }
 
 #hobbytitle {
