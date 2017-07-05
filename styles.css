@@ -1,4 +1,4 @@
-5#BIGBOX {
+#BIGBOX {
    position:relative;
     top:30px;
     bottom:0;
@@ -7,6 +7,12 @@
     height:250px;
     background:#ffffff;
   }
+
+#bakertxt {
+   position: relative;
+   bottom: 40px;
+   left: 20px;
+}
 
 #hobbytitle {
    color: #48495e;
