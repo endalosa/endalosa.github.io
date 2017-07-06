@@ -43,9 +43,9 @@
 
 #hobbytitle {
    color: #48495e;
-   position: relative;
+   position: fixed;
    font-size: 300%;
-   top: 15px;
+   top: -10px;
    left: 690px;
 }
 
