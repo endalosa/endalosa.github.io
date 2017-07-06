@@ -1,4 +1,16 @@
-#BIGBOX {
+#welcometxt
+{
+    width: 1230px;
+    height:330px;
+   background:#ffffff;
+    bottom:100px;
+    left: 430px;
+}  
+
+#blog{
+   font size:150%;
+}
+   #BIGBOX {
    position:fixed;
     top:50px;
     bottom:0;
