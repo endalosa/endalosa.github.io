@@ -1,9 +1,10 @@
-#welcometxt
+#why
 {
     width: 1230px;
-    height:330px;
+    height:200px;
    background:#ffffff;
-    bottom:100px;
+    top:550px;
+    position:fixed;
     left: 430px;
 }  
 
