@@ -1,10 +1,10 @@
 #BIGBOX {
-   position:relative;
-    top:30px;
+   position:fixed;
+    top:50px;
     bottom:0;
     left: 350px;
-    width: 915px;
-    height:250px;
+    width: 1230px;
+    height:330px;
     background:#ffffff;
   }
 
