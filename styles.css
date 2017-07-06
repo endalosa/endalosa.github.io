@@ -10,7 +10,7 @@
 
 #bakertxt {
    position: fixed;
-   bottom: 620px;
+   bottom: 610px;
    width: 620px;
    height: 200px;
    left: 630px;
@@ -32,7 +32,7 @@
 
 #murdertxt {
    position: fixed;
-   bottom: 60px;
+   bottom: 50px;
    width: 620px;
    height: 200px;
    left: 630px;
