@@ -9,33 +9,33 @@
   }
 
 #bakertxt {
-   position: fixed;
-   bottom: 610px;
+   position: relative;
+   bottom: 230px;
    width: 620px;
    height: 200px;
-   left: 630px;
+   left: 270px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
 }
 
 #sleeptxt {
-   position: fixed;
-   bottom: 330px;
+   position: relative;
+   bottom: 230px;
    width: 620px;
    height: 200px;
-   left: 630px;
+   left: 270px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
 }
 
 #murdertxt {
-   position: fixed;
-   bottom: 50px;
+   position: relative;
+   bottom: 230px;
    width: 620px;
    height: 200px;
-   left: 630px;
+   left: 270px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
