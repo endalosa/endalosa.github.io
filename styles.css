@@ -9,33 +9,33 @@
   }
 
 #bakertxt {
-   position: relative;
-   bottom: 230px;
+   position: fixed;
+   bottom: 570px;
    width: 620px;
    height: 200px;
-   left: 270px;
+   left: 630px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
 }
 
 #sleeptxt {
-   position: relative;
-   bottom: 230px;
+   position: fixed;
+   bottom: 290px;
    width: 620px;
    height: 200px;
-   left: 270px;
+   left: 630px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
 }
 
 #murdertxt {
-   position: relative;
-   bottom: 230px;
+   position: fixed;
+   bottom: 10px;
    width: 620px;
    height: 200px;
-   left: 270px;
+   left: 630px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
@@ -50,8 +50,8 @@
 }
 
 #HOBBYBOX {
-    position:relative;
-    top: 35px;
+    position:fixed;
+    top: 100px;
     bottom:0;
     left: 360px;
     width: 915px;
@@ -60,8 +60,8 @@
 }
 
 #HOBBYBOX3 {
-    position:relative;
-    top: 110px;
+    position:fixed;
+    top: 660px;
     bottom:0;
     left: 360px;
     width: 915px;
@@ -70,8 +70,8 @@
 }
 
 #HOBBYBOX2 {
-    position:relative;
-    top: 70px;
+    position:fixed;
+    top: 380px;
     bottom:0;
     left: 360px;
     width: 915px;
