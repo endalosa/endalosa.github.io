@@ -219,9 +219,9 @@ left:15px;
 #bakertxt {
    position: relative;
    bottom: 280px;
-   width: 920px;
+   width: 900px;
    height: 250px;
-   left: 300px;
+   left: 320px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
@@ -230,24 +230,24 @@ left:15px;
 #sleeptxt {
    position: relative;
    bottom: 280px;
-   width: 920px;
+   width: 900px;
    height: 250px;
-   left: 300px;
+   left: 320px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
 }
 
 .scroll {
-  overflow: scroll;
+  overflow: auto;
 }
 
 #murdertxt {
    position: relative;
    bottom: 280px;
-   width: 920px;
+   width: 900px;
    height: 250px;
-   left: 300px;
+   left: 320px;
    border-style: solid;
    border-width: 1px;
    border-color:#000000;
