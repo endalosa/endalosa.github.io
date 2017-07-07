@@ -238,6 +238,10 @@ left:15px;
    border-color:#000000;
 }
 
+.scroll {
+  overflow: scroll;
+}
+
 #murdertxt {
    position: relative;
    bottom: 280px;
