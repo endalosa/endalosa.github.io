@@ -176,7 +176,7 @@ body {
     top: 100px;
     bottom:0;
     left: 360px;
-    width: 915px;
+    width: 1230px;
     height:250px;
     background:#ffffff;
 }
@@ -186,7 +186,7 @@ body {
     top: 660px;
     bottom:0;
     left: 360px;
-    width: 915px;
+    width: 1230px;
     height:250px;
     background:#ffffff;
 }
@@ -196,7 +196,7 @@ body {
     top: 380px;
     bottom:0;
     left: 360px;
-    width: 915px;
+    width: 1230px;
     height:250px;
     background:#ffffff;
 }
@@ -219,7 +219,7 @@ left:15px;
 #bakertxt {
    position: relative;
    bottom: 230px;
-   width: 620px;
+   width: 830px;
    height: 200px;
    left: 270px;
    border-style: solid;
@@ -230,7 +230,7 @@ left:15px;
 #sleeptxt {
    position: relative;
    bottom: 230px;
-   width: 620px;
+   width: 830px;
    height: 200px;
    left: 270px;
    border-style: solid;
@@ -241,7 +241,7 @@ left:15px;
 #murdertxt {
    position: relative;
    bottom: 230px;
-   width: 620px;
+   width: 830px;
    height: 200px;
    left: 270px;
    border-style: solid;
