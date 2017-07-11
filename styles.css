@@ -193,7 +193,17 @@ body {
     position: relative;
      top:25px;
      left:25px;
-}
+      opacity: 1.0;
+      -webkit-transition: all 0.3s linear 0s;
+         -moz-transition: all 0.3s linear 0s;
+           -o-transition: all 0.3s linear 0s;
+              transition: all 0.3s linear 0s;}
+img:hover{opacity: 0.5;
+      -webkit-transition: all 0.3s linear 0s;
+         -moz-transition: all 0.3s linear 0s;
+           -o-transition: all 0.3s linear 0s;
+              transition: all 0.3s linear 0s;}
+
 
 
 #hobbytitle {
