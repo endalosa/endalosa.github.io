@@ -12,6 +12,15 @@ html {
   margin: auto;
 }
 
+#image{
+-webkit-transition: opacity 0.8s linear;
+opacity: 1;
+}
+#image:hover{
+-webkit-transition: opacity 0.8s linear;
+opacity: 0.5;
+}
+
 .prev, .next {
   cursor: pointer;
   position: relative;
