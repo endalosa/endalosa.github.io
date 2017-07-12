@@ -329,7 +329,7 @@ left:15px;
 }
 
  #BIGBOX {
-   position:fixed;
+   position:relative;
     top:50px;
     bottom:0;
     left: 430px;
