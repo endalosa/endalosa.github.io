@@ -4,6 +4,10 @@ html {
     overflow-x: hidden;
 }
 
+body {
+  font-size:150%;
+}
+
 * {box-sizing:border-box}
 
 .slideshow-container {
@@ -262,13 +266,13 @@ body {
    color: #48495e;
    position: relative;
    font-size: 300%;
-   top: 0px;
+   top: -20px;
    left: 900px;
 }
 
 #HOBBYBOX {
     position:relative;
-    top: 40px;
+    top: 0px;
     bottom:0;
     left: 400px;
     width: 1230px;
@@ -278,7 +282,7 @@ body {
 
 #HOBBYBOX3 {
     position:relative;
-    top: 80px;
+    top: 60px;
     bottom:0;
     left: 400px;
     width: 1230px;
@@ -288,7 +292,7 @@ body {
 
 #HOBBYBOX2 {
     position:relative;
-    top: 60px;
+    top: 30px;
     bottom:0;
     left: 400px;
     width: 1230px;
