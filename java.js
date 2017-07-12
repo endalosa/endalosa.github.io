@@ -24,3 +24,10 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block"; 
   dots[slideIndex-1].className += " active";
 }
+
+$("#image").hover(
+  function(){
+  		$(".info", this).css("display", "block");
+	}, function(){
+  		$(".info", this).css("display", "none");
+});
