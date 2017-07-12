@@ -253,13 +253,13 @@ body {
    color: #48495e;
    position: relative;
    font-size: 300%;
-   top: 30px;
+   top: 0px;
    left: 900px;
 }
 
 #HOBBYBOX {
     position:relative;
-    top: 0px;
+    top: 20px;
     bottom:0;
     left: 400px;
     width: 1230px;
@@ -269,7 +269,7 @@ body {
 
 #HOBBYBOX3 {
     position:relative;
-    top: 0px;
+    top: 20px;
     bottom:0;
     left: 400px;
     width: 1230px;
@@ -279,7 +279,7 @@ body {
 
 #HOBBYBOX2 {
     position:relative;
-    top: 0px;
+    top: 20px;
     bottom:0;
     left: 400px;
     width: 1230px;
