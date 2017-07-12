@@ -299,11 +299,11 @@ left:15px;
   }
 
 
-#bar1 a:hover { background-color: #2c2d3a; }
-#bar2 a:hover { background-color: #2c2d3a; }
-#bar3 a:hover { background-color: #2c2d3a; }
-#bar4 a:hover { background-color: #2c2d3a; }
-#bar5 a:hover { background-color: #2c2d3a; }
+#bar1:hover { background-color: #2c2d3a; }
+#bar2:hover { background-color: #2c2d3a; }
+#bar3:hover { background-color: #2c2d3a; }
+#bar4:hover { background-color: #2c2d3a; }
+#bar5:hover { background-color: #2c2d3a; }
 
 
 #bakertxt {
