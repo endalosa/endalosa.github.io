@@ -1,5 +1,7 @@
-html {
+html, body {
   overflow-y: scroll;
+  max-width: 100%;
+    overflow-x: hidden;
 }
 
 * {box-sizing:border-box}
