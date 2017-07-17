@@ -1,5 +1,11 @@
 $(document).ready(function() {
 
+  $(".hide-on-click") .click(function() {
+    $(".hide-on-click").hide();
+});
+
+
+
   var slideIndex = 1;
   showSlides(slideIndex);
 
