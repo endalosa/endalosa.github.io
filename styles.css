@@ -1,3 +1,13 @@
+#friend1
+{
+  position: relative;
+  left: 350px;
+  width: 1200px;
+  height: 250px;
+  top: -200px;
+  background-color:#FFFFFF;
+}
+
 #bigme {
   position: relative;
   left:350px;
@@ -66,12 +76,12 @@ opacity: 0.5;
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
@@ -116,7 +126,7 @@ opacity: 0.5;
    border-width: 2px;
     height:50px;
     background:#595b75;
-}  
+}
 
 #bar2 {
     position:fixed;
@@ -129,7 +139,7 @@ opacity: 0.5;
    border-width: 2px;
     height:50px;
     background:#595b75;
-}  
+}
 
 
 #bar3 {
@@ -143,7 +153,7 @@ opacity: 0.5;
  border-color:#FFFFFF;
     height:50px;
     background:#595b75;
-}  
+}
 
 #bar4 {
     position:fixed;
@@ -235,7 +245,7 @@ left: 750px;
     font-size:63%;
      top:10px;
      left:51px;
-}  
+}
 
 body {
     background-color:#e2e3e9;
@@ -255,7 +265,7 @@ body {
     width: 250px;
     height:1000px;
     background:#48495e;
-} 
+}
 
 #image {
     position: relative;
@@ -305,7 +315,7 @@ body {
 .pics
 { position:relative;
 top:15px;
-left:15px; 
+left:15px;
   }
 
 
@@ -367,7 +377,7 @@ left:15px;
     top:470px;
     position:fixed;
     left: 430px;
-}  
+}
 
 #blog{
    font-size:150%;
