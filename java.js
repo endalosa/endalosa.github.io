@@ -1,10 +1,3 @@
-$(document).ready(function() {
-
-  $(".hide-on-click") .click(function() {
-    $(".hide-on-click").hide();
-});
-
-
 
   var slideIndex = 1;
   showSlides(slideIndex);
@@ -32,8 +25,3 @@ $(document).ready(function() {
     slides[slideIndex-1].style.display = "block";
     dots[slideIndex-1].className += " active";
   }
-
-
-
-
-});
